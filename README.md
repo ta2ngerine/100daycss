@@ -1,2 +1,2 @@
-# 100daycss
+# 100dayscss
 https://100dayscss.com/
